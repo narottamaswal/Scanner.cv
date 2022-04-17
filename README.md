@@ -1,6 +1,7 @@
 # Scanner.cv
 A new document scanner application using computer vision and android.
 The project is aimed to provide users scanning functionality anytime and anywhere with the help of technology. This application will not only help users to avail document scanning anywhere but also reduce the time and money people had to waste on getting the job done.
+
 This document details the project plan for the development of the application. It is intended for developers, designers, and testers working on the project. This plan
 will include a summary of:
 1. how the system will function
